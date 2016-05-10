@@ -23,4 +23,4 @@ Options:
 ```
 
 ### Bug Reporting
-Please submit bugs to the github * [issue tracker](https://github.com/zaktimson/password_hasher/issues)
+Please submit bugs to the github [issue tracker](https://github.com/zaktimson/password_hasher/issues)
