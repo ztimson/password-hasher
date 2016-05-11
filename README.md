@@ -2,7 +2,7 @@
 Python utility to hash passwords. Often when creating a user, a hashed password is needed. This cammond line utility can simply hash the password or multiple parameters can be passed to replicated. password, salt, hashing algorithm, pass+salt concatination order, and number of iterations can all be specified.
 
 ### Authors
- * [ZaksCode](http://zakscode.com)
+ * [Zak Timson](http://zakscode.com)
 
 ### License
 GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007. read LICENSE for more
