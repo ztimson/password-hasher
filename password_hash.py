@@ -1,10 +1,5 @@
-"""
-Author: Zakary Timson
-Date: 2015-05-06
-Description: Hashes passwords
-"""
+#!/usr/bin/python3
 
-# Imports
 import hashlib
 from optparse import OptionParser
 from random import choice, randrange
