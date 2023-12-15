@@ -71,8 +71,8 @@ Options:
 - [Python](https://www.python.org/downloads/)
 
 #### Instructions
-1. Download script: `curl https://git.zakscode.com/ztimson/password-hasher/raw/branch/master/password_hash.py`
-2. Run python script: `python3 password_hasher.py [OPTIONS] <PASSWORD>`
+1. Download script & make executable: `curl https://git.zakscode.com/ztimson/password-hasher/raw/branch/master/password_hash.py && chmod 0775 password_hasher.py`
+2. Run python script: `./password_hasher.py [OPTIONS] <PASSWORD>`
 
 </details>
 
