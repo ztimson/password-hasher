@@ -72,7 +72,7 @@ def output(password, salt, iterations, hash_algorithm):
 
 
 # Specify flags
-parser = OptionParser(usage="usage: %prog [options] PASSWORD")
+parser = OptionParser(usage="usage: %prog [OPTIONS] <PASSWORD>")
 parser.add_option("-s", "--salt", help="specify salt")
 parser.add_option("-i", "--iterations", help="specify number of iterations to hash password")
 parser.add_option("-o", "--order", help="order the password and salt ex. \"ps\" to append salt")
